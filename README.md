@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 "# HANDSONACTIVITY2" 
 "# HANDSONACTIVITY2" 
 "# HANDSONACTIVITY2" 
 "# HOA2" 
 "# HOA2" 
 "# HOA2" 
+"# HOA2" 
+=======
+
+>>>>>>> 1cae81992f107a4769069eda0ead602509fd6499
 "# HOA2" 
