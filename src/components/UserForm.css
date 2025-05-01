@@ -1,0 +1,46 @@
+.user-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .user-form input {
+    padding: 10px;
+    flex: 1;
+    border: 2px solid #c1e7e7;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .user-form button {
+    padding: 10px 20px;
+    background-color: #4ec1c1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .user-form button:hover {
+    background-color: #33a8a8;
+  }
+  
+  .error {
+    color: #ff6f61;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  @media (max-width: 768px) {
+    .user-form {
+      flex-direction: column;
+    }
+  
+    .user-form input, .user-form button {
+      width: 100%;
+    }
+  }
+  
